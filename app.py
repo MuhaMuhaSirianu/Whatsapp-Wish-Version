@@ -9,7 +9,7 @@ host = socket.gethostname()
 port = 9999
 
 # connection to hostname on the port.
-s.connect((host 192.168.2.211,port 54956 ))
+s.connect((host ipadress,portadress ))
 
 # receive data from the server
 while True:
